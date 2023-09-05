@@ -1,0 +1,4 @@
+1|driveway|차고 진입로
+2|graceful|우아한
+1|apple|사과
+1|kiwi|키위

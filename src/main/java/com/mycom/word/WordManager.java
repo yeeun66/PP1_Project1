@@ -9,7 +9,7 @@ public class WordManager {
         wordCRUD = new WordCRUD(s);
     }
     public int selectMenu(){
-        System.out.println("*** 영단어 마스터 ***\n"
+        System.out.print("*** 영단어 마스터 ***\n"
                 + "******************\n"
                 + "1. 모든 단어 보기\n"
                 + "2. 수준별 단어 보기\n"
@@ -26,17 +26,34 @@ public class WordManager {
 
     }
     public void start(){
+
+        wordCRUD.loadFile();
         while(true) {
             int menu = selectMenu();
             if(menu == 0) break;
-            if(menu == 4){
-                // create
-                wordCRUD.addWord();
-            }
-            if(menu == 1){
-                // list
+            if(menu == 1){ // list
                 wordCRUD.listAll();
             }
+            if(menu == 2){ // list
+                wordCRUD.searchLevel();
+            }
+            if(menu == 3){ // list
+                wordCRUD.searchWord();
+            }
+            if(menu == 4){ // create
+                wordCRUD.addItem();
+            }
+            if(menu == 5) { // update
+                wordCRUD.updateItem();
+            }
+            if(menu == 6){ // delete
+                wordCRUD.deleteItem();
+            }
+            if(menu == 7){ // save
+                wordCRUD.saveFile();
+            }
+
         }
+        System.out.println("프로그램 종료! 다음에 만나요~ ");
     }
 }
