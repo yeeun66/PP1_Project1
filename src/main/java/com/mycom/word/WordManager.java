@@ -52,7 +52,6 @@ public class WordManager {
             if(menu == 7){ // save
                 wordCRUD.saveFile();
             }
-
         }
         System.out.println("프로그램 종료! 다음에 만나요~ ");
     }

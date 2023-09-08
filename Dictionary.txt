@@ -1,4 +1,51 @@
 1|driveway|차고 진입로
 2|graceful|우아한
+3|require|요구하다
+1|technology|과학기술
 1|apple|사과
-1|kiwi|키위
+2|kiwi|키위
+3|provide|공급하다
+2|object|물체, 반대하다
+1|level|수준, 정도
+2|involve|포함하다, 관계하다
+3|employ|고용하다
+2|attitude|태도
+1|improve|개량하다
+2|research|조사하다
+3|supply|공급하다
+2|tend|～하는 경향이 있다
+1|affect|～에 영향을 미치다
+3|benefit|이익, 자선, 특권
+3|demand|요구하다
+1|occasion|경우, 행사, 의식
+2|fashion|모양, 방식, 유행
+3|recognize|알아보다, 인식하다
+2|proper|적당한, 고유의
+2|behave|행동하다, 작용하다
+3|opportunity|기회
+2|determine|결정하다, 결심하다
+1|generate|발생하다
+2|exist|존재하다
+3|regret|유감, 후회
+2|occur|일어나다, 떠오르다
+1|available|쓸모 있는, 당선 가능한
+2|professional|직업상의, 전문가
+3|frequent|빈번한, 빠른
+2|contact|접촉, 연락, 접촉하다
+1|respond|대답하다, 반응하다
+2|emotional|감동적인
+3|diet|식이요법, 음식물
+3|severe|심각한, 엄한
+1|gloom|어둠, 우울
+2|negative|부정적인
+3|victim|희생, 희생물
+2|biology|생물학
+1|obtain|얻다, 획득하다
+2|heal|고치다, 치료하다
+3|influence|영향, 세력
+2|critical|비평의, 비판적인, 중대한
+1|aware|의식하고 있는
+2|civil|일반 시민의, 국내의
+3|immediate|즉시의, 당면한
+2|material|원료, 인물
+1|compose|구성하다, 작곡하다, 작문하다
