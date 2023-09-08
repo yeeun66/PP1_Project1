@@ -33,6 +33,7 @@ public class Word {
         return word;
     }
 
+
     public void setWord(String word) {
         this.word = word;
     }
