@@ -17,12 +17,12 @@
 - 5번 실행결과 <br>
 <img width="300" alt="5번-1" src="https://github.com/yeeun66/PP1_Project1/assets/130718223/765f6b0b-c78e-4609-8469-42a124889ab7">
 <br>
-<img width="396" alt="5번-2" src="https://github.com/yeeun66/PP1_Project1/assets/130718223/078ae2ff-d39d-40a2-80ff-25e78bda4f8a">
+<img width="300" alt="5번-2" src="https://github.com/yeeun66/PP1_Project1/assets/130718223/078ae2ff-d39d-40a2-80ff-25e78bda4f8a">
 
 - 6번 실행결과 <br>
 <img width="300" alt="6번-1" src="https://github.com/yeeun66/PP1_Project1/assets/130718223/c44faea3-1601-4c01-8443-8545e0ac3520">
 <br>
-<img width="345" alt="6번-2" src="https://github.com/yeeun66/PP1_Project1/assets/130718223/f12984c0-106a-4bd0-8f8a-95ed04bb1e39">
+<img width="300" alt="6번-2" src="https://github.com/yeeun66/PP1_Project1/assets/130718223/f12984c0-106a-4bd0-8f8a-95ed04bb1e39">
 
 - 7번 실행결과 <br>
 <img width="300" alt="7번" src="https://github.com/yeeun66/PP1_Project1/assets/130718223/ed641129-aaa6-4964-9dd4-954cce7c65a7">
